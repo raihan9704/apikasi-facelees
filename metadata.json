@@ -1,0 +1,6 @@
+{
+  "name": "FaceLess AI Studio",
+  "description": "Premium faceless AI image & illustration generator representing humans and living creatures in beautiful aesthetic styles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
